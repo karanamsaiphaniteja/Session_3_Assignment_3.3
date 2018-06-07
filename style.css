@@ -1,0 +1,7 @@
+
+body{
+    background:blue !important /*overiding external stylesheet by specificity(using !important)*/
+}
+header h1{
+    color:white !important /*overiding external stylesheet by specificity (using !important)*/
+}
